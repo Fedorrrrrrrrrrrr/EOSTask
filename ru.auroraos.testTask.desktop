@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.testTask
+Exec=/usr/bin/ru.auroraos.testTask
+Name=testTask
+Name[ru]=Тестовое задание
+
+[X-Application]
+Permissions=UserDirs
+OrganizationName=ru.auroraos
+ApplicationName=testTask
+ExecDBus=/usr/bin/ru.auroraos.testTask
